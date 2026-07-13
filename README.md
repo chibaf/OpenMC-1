@@ -1,5 +1,3 @@
-# OpenMC
-
 # OpenMC  
 https://openmc.org
 
