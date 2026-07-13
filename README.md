@@ -20,7 +20,9 @@ http://localhost:8080/
 ## OpenMC Tutorial | Simulating the Molten Salt Rreactor Experiment  
 https://youtu.be/pArhYbZQP0Q?si=OTgjdjELyF_zAoKY  
  via @YouTube   
-The Molten Salt Reactor Experiment was a great reactor build and operated successfully in the 1960s. This video show you how to simulate a high fidelity CAD drawing of the MSRE in OpenMC (open source monte carlo). You can install everything you need in 15 minutes and run it on your own computer.   https://github.com/openmsr/msre_docker
+The Molten Salt Reactor Experiment was a great reactor build and operated successfully in the 1960s. This video show you how to simulate a high fidelity CAD drawing of the MSRE in OpenMC (open source monte carlo). You can install everything you need in 15 minutes and run it on your own computer.     
+  
+https://github.com/openmsr/msre_docker
   
 https://github.com/openmsr/msre
   
